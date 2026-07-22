@@ -1,3 +1,3 @@
 ## 🌐 Live Demo
 
-👉 **https://hotel-booking-cancellation-9zpv.onrender.com**
+👉 **https://hotel-booking-cancellation-predictions.onrender.com/**
